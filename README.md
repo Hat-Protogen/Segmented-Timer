@@ -1,6 +1,7 @@
 # SveltronKit
 
-A minimal template for building Electron apps with SvelteKit.
+A this project used a minimal template for building Electron apps with SvelteKit.
+This is the readme for that template.
 
 Includes native support for Typscript and uses Electron's official recommended Electron Forge for packaging.
 
